@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://ston1992.github.io/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Mar 2019 15:19:54 +0800</lastBuildDate>
+    
+	<atom:link href="https://ston1992.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>https://ston1992.github.io/post/test/</link>
+      <pubDate>Wed, 06 Mar 2019 15:19:54 +0800</pubDate>
+      
+      <guid>https://ston1992.github.io/post/test/</guid>
+      <description>TEST just for test</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://ston1992.github.io/post/about/</link>
+      <pubDate>Wed, 06 Mar 2019 14:40:18 +0800</pubDate>
+      
+      <guid>https://ston1992.github.io/post/about/</guid>
+      <description>ABOUT this is the about .</description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>https://ston1992.github.io/post/first/</link>
+      <pubDate>Wed, 06 Mar 2019 11:51:12 +0800</pubDate>
+      
+      <guid>https://ston1992.github.io/post/first/</guid>
+      <description>Hello this is first hugo blog.</description>
+    </item>
+    
+  </channel>
+</rss>

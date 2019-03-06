@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>My New Hugo Site on My New Hugo Site </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>https://ston1992.github.io/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Wed, 06 Mar 2019 15:19:54 CST</updated>
+    
+    <item>
+      <title>Test</title>
+      <link>https://ston1992.github.io/post/test/</link>
+      <pubDate>Wed, 06 Mar 2019 15:19:54 CST</pubDate>
+      
+      <guid>https://ston1992.github.io/post/test/</guid>
+      <description>
+
+&lt;h3 id=&#34;test&#34;&gt;TEST&lt;/h3&gt;
+
+&lt;p&gt;just for test&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://ston1992.github.io/post/about/</link>
+      <pubDate>Wed, 06 Mar 2019 14:40:18 CST</pubDate>
+      
+      <guid>https://ston1992.github.io/post/about/</guid>
+      <description>
+
+&lt;h3 id=&#34;about&#34;&gt;ABOUT&lt;/h3&gt;
+
+&lt;p&gt;this is the about .&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>https://ston1992.github.io/post/first/</link>
+      <pubDate>Wed, 06 Mar 2019 11:51:12 CST</pubDate>
+      
+      <guid>https://ston1992.github.io/post/first/</guid>
+      <description>
+
+&lt;h3 id=&#34;hello&#34;&gt;Hello&lt;/h3&gt;
+
+&lt;p&gt;this is first hugo blog.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://ston1992.github.io/about/</link>
+      <pubDate>Wed, 06 Mar 2019 11:50:30 CST</pubDate>
+      
+      <guid>https://ston1992.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
